@@ -93,25 +93,3 @@ $ make bonus
 $ gcc test.c libft.a
 $ ./a.out
 ```
-
-## Examples
-
-- Create ```libft.a```
-[![libft_0](https://github.com/qingqingqingli/readme_images/blob/master/libft_0.png)](https://github.com/qingqingqingli/libft)
-
-- Add bonus function to ```libft.a``` and compile with your own testfile
-[![libft_1](https://github.com/qingqingqingli/readme_images/blob/master/libft_1.png)](https://github.com/qingqingqingli/libft)
-
-
-<!-- ## Compilation
-
-Run the following commands:
-
-* To compile
-	- `make`
-* To remove object files:
-	- `make clean`
-* To remove object files and executable:
-	- `make fclean`
-* To re-compile:
-	- `make re` -->
