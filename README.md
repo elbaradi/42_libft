@@ -1,6 +1,6 @@
-Note: _This was my first 42 project. The code is from October 2020. This README was written by the amazing [Qing Li](https://github.com/qingqingqingli), it was copied with her permission; it perfectly describes the project._
+Note: _This was my first 42 project. The code is from October 2020. This README was written by the amazing [Qing Li](https://github.com/qingqingqingli), it was copied and modified with her permission; it perfectly describes the project._
 
-[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/qingqingqingli/libft)
+[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/elbaradi/ft_libft)
 
 # libft
 ***This project creates a library with standard libc functions and several other generic functions, which will be used for other 42 projects.***
